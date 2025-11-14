@@ -114,7 +114,7 @@ public class Main {
 
             sb.append("\n1. Decomposicao Aplicada:\n");
             sb.append(String.format(Locale.US, "(%.1f / %s) + (%.1f / %s)\n",
-                    C1, criaFator(raiz1), C2, criaFator(raiz2)));
+                    C1, criaFator(raiz1), C2, criaFator(raiz2))); 
 
             // 2. Apresentar Resultado Simbolico
             sb.append("\n2. Resultado Simbolico Final:\n");
