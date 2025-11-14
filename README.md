@@ -7,6 +7,6 @@ Este projeto tem como objetivo a implementação de algoritmos para resolução 
 - Gabriela Lacerda
 - Gabryelle Franco
   
-# Orientador:    
+# Orientadora:    
 Prof. Cláudia Silva Tavares   
  
